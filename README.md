@@ -20,7 +20,7 @@ This portfolio showcases my background, projects, interests, and skills as a web
 - Deployed via GitHub Pages
 
 ## 🚀 Deployment
-Check out the live version here: [https://Adefranky.github.io/portfolio](https://Adefranky.github.io/portfolio)
+Check out the live version here: [https://adefranky.github.io/hakathon-1/]
 
 ## 📬 Contact
 Feel free to connect via the form or email me directly at elias.alakala@gmail.com.
